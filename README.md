@@ -7,7 +7,7 @@ React Toast Popup is a simple and customizable toast notification component for 
 You can install React Toast Popup via npm:
 
 ```jsx
-npm install npm-test
+npm install cool-toast-test
 ```
 
 ## Usage

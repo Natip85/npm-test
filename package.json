@@ -1,7 +1,7 @@
 {
-  "name": "npm-test",
+  "name": "cool-toast-test",
   "version": "0.0.1",
-  "description": "React npm package test.",
+  "description": "React toast npm package test.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
